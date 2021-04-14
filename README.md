@@ -13,8 +13,6 @@
 ### 🤓 About Me
   <p>
   Passionate and Self-taught Data Scientist.
-  I have been working in the Field of Data Science since 2016. Always engaged in learning and self-improvement.
-  Part time Quoran and enjoy some of my time watching TV Series. A Marvel Fan.
   <p/>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> A little more about me...  
